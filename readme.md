@@ -2,11 +2,13 @@
 
 ## [Ask a question](../../issues/new) &nbsp;&nbsp;&nbsp; [Read questions](../../issues?q=is%3Aissue+is%3Aclosed)
 
-I get a lot of questions by email. This way anyone can read the answer!
+Inspired from [sindresorhus/ama](https://github.com/sindresorhus/ama) and [hemanth/ama](https://github.com/hemanth/ama).
 
 Anything means *anything*. Personal questions. Money. Work. Life. Code. Whatever.
 
--
+### Little About Me
+
+I'm the creator of a well known html/css/js collaborative platform called [CSSDeck](http://cssdeck.com). I blog at [CodeTheory](http://codetheory.in). Currently a frontend engineer at [ZoomCar](http://www.zoomcar.com).
 
 ### Guidelines
 
